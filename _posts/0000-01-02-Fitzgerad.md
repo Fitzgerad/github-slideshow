@@ -1,8 +1,10 @@
 ---
+
 layout: slide
 title: "Welcome to our second slide!"
+
 ---
 
-Your text
+Haachamachama!
 
 Use the left arrow to go back!
